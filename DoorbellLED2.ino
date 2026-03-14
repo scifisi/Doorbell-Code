@@ -24,8 +24,8 @@ constexpr int8_t DOORBELL_OUT_PIN = 23;
 constexpr bool DOORBELL_RELAY_ACTIVE_HIGH = true;
 
 // Wi-Fi credentials
-const char* WIFI_SSID = "SCI-FI-SI";
-const char* WIFI_PASSWORD = "EnterYourWiFiPasswordHere";
+const char* WIFI_SSID = "YourSSID";
+const char* WIFI_PASSWORD = "YourWiFiPassword";
 
 // Location (UK)
 constexpr float LATITUDE = 53.82f;
